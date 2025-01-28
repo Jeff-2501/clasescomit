@@ -1,5 +1,3 @@
-var nombre;
-var appellido;
-var edad;
-var fechaNacimiento;
-var direccion;
+let nombre = "Jefferson";
+
+console.log(nombre);
