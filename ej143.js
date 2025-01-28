@@ -1,1 +1,3 @@
-let usuario = {};
+const usuario = {};
+
+console.log(usuario);
