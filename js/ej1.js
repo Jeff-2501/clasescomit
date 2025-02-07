@@ -1,2 +1,9 @@
 var nombre; 
-var ap
+var apellido;
+var edad; 
+var fechaDeNacimiento; 
+var direccion;
+
+
+
+
